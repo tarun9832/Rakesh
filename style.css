@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    font-family:'Ubuntu',sans-serif ;
+    background-image: url("think.jpg");
+    background-size:1300px 650px;
+
+  }
+
+
+.container{
+    color: brown;
+    font-size: 14px;
+    margin: 0;
+  position: absolute;
+  top: 25%;
+  left: 84%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+
+
+}
